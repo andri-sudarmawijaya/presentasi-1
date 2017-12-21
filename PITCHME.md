@@ -6,7 +6,7 @@
 
 ### BantOS !
 
-- BantOS merupakan sistem operasi komputer berbasis open source yang dikembangkan oleh Tim Development Pemerintah Provinsi Banten untuk mendukung penerapan teknologi informasi di Pemerintahan Provinsi Banten. |
+- BantOS merupakan sistem operasi komputer berbasis <span class="gold">open source</span>  yang dikembangkan oleh Tim Development Pemerintah Provinsi Banten untuk mendukung penerapan teknologi informasi di Pemerintahan Provinsi Banten. |
 - Sistem operasi ini telah dilengkapi dengan aplikasi perkantoran lengkap, WPS Office dan Only Office. Kedua aplikasi tersebut tersedia dalam sekali instal BantOS |
 ---
 
