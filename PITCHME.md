@@ -151,7 +151,7 @@ Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 
-# VSLIDE
+#VSLIDE
 
 #### Mengungkapkan Konsep Slide Piecemeal
 
@@ -163,7 +163,7 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 - Scala   
 - The JVM rocks!
 
-# VSLIDE
+#VSLIDE
 <table>
   <tr>
     <th>Firstname</th>
